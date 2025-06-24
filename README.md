@@ -19,7 +19,7 @@ You can check out the live app here:
 ## Installation and Running Locally
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone git@github.com:MilanVujevic/plantri.git
 
 2. Install dependencies:
     npm install
